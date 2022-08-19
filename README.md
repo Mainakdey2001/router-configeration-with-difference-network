@@ -1,2 +1,2 @@
-# router-configeration-with-difference-network
+# Router-configuration-with-difference-network
 Using CISCO PACKET TRACER
